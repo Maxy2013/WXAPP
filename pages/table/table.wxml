@@ -1,0 +1,4 @@
+<view class='container'>
+  <text class='text'>{{msg}}</text>
+  <text class='text' bindtap='gotoLog'>{{log_msg}}</text>
+</view>
